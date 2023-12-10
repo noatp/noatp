@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:-->
 
-I am a recent graduate of California Polytechnic State University at San Luis Obispo, with a major in Computer Science. My current interests include mobile (iOS), web and video game development. I am currently looking for a full-time/internship software engineering position.
+I am a fullstack Software Engineer at Citi. My current interests include mobile development for iOS and web development using ReactJS.
 
-- 🔭 I’m currently working on [ChoreReward iOS App](https://github.com/noatp/ChoreReward)
-- ✨ Here is a simple iOS app that I made: [RecipeGrimoire iOS App](https://github.com/noatp/RecipeGrimoire)
+- ✨ Here are simple iOS apps that I made: [RecipeGrimoire iOS App](https://github.com/noatp/RecipeGrimoire), [ChoreReward iOS App](https://github.com/noatp/ChoreReward)
 - 🌱 I’m currently learning iOS Dev with Swift UI and also MongoDB, ExpressJS and NodeJS
 - 💬 Ask me about Jetpack Compose and SwiftUI
 - 📫 How to reach me: toan.chpham@gmail.com
